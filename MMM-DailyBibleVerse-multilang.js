@@ -1,6 +1,6 @@
 //dailybibleverse.js
 
-Module.register("MMM-DailyBibleVerse-multilang", {
+Module.register("MMM-DailyBibleVerse-multilang2", {
     // Default module config.
     result: [],
     defaults: {
@@ -26,12 +26,12 @@ Module.register("MMM-DailyBibleVerse-multilang", {
     },
 
     getStyles: function () {
-        return ["MMM-DailyBibleVerse-multilang.css"];
+        return ["MMM-DailyBibleVerse-multilang2.css"];
     },
 
     // Override dom generator.
     getDom: function() {
-        Log.log("Updating MMM-DailyBibleVerse-multilang DOM.");
+        Log.log("Updating MMM-DailyBibleVerse-multilang2 DOM.");
 
         var verse = "";
         var reference = "";
