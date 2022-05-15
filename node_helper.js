@@ -11,7 +11,7 @@ var request = require('request');
 module.exports = NodeHelper.create({
 	// Subclass start method.
 	start: function() {
-		console.log("Started node_helper.js for MMM-DailyBibleVerse-multilang.");
+		console.log("Started node_helper.js for MMM-DailyBibleVerse-multilang2.");
 	},
 
 	socketNotificationReceived: function(notification, payload) {
