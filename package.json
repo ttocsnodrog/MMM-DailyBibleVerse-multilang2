@@ -1,21 +1,21 @@
 {
-  "name": "mmm-dailybibleverse-multilang",
+  "name": "mmm-dailybibleverse-multilang2",
   "version": "1.0.0",
   "description": "Magic mirror module which displays Bible verse of the day",
-  "main": "MMM-DailyBibleVerse-multilang.js",
+  "main": "MMM-DailyBibleVerse-multilang2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ttocsnodrog/MMM-DailyBibleVerse-multilang.git"
+    "url": "git+https://github.com/ttocsnodrog/MMM-DailyBibleVerse-multilang2.git"
   },
   "author": "Arthur Garza",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ttocsnodrog/MMM-DailyBibleVerse-multilang/issues"
+    "url": "https://github.com/ttocsnodrog/MMM-DailyBibleVerse-multilang2/issues"
   },
-  "homepage": "https://github.com/ttocsnodrog/MMM-DailyBibleVerse-multilang#readme",
+  "homepage": "https://github.com/ttocsnodrog/MMM-DailyBibleVerse-multilang2#readme",
   "dependencies": {
     "request": "^2.83.0"
   }
